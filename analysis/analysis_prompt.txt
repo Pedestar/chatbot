@@ -1,0 +1,5 @@
+Analysiere das Gespraech.
+Gib zwei Felder aus.
+stimmung erkenne positive oder negative Aussagen.
+themen liste kurze Stichwoerter auf.
+Gib die Ausgabe als JSON aus.
