@@ -1,0 +1,36 @@
+[
+  {
+    "id": "user01_conv01",
+    "user": "user01",
+    "timestamp_start": "2025-01-12T10:15:00",
+    "messages": [
+      {
+        "from": "user",
+        "text": "Ich fuehle mich muede."
+      },
+      {
+        "from": "system",
+        "text": "Was hat dich heute muede gemacht"
+      },
+      {
+        "from": "user",
+        "text": "Zu viele Aufgaben in der Schule."
+      }
+    ]
+  },
+  {
+    "id": "user02_conv01",
+    "user": "user02",
+    "timestamp_start": "2025-01-12T11:40:00",
+    "messages": [
+      {
+        "from": "user",
+        "text": "Ich hatte einen guten Tag."
+      },
+      {
+        "from": "system",
+        "text": "Was hat dir gut getan"
+      }
+    ]
+  }
+]
