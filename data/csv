@@ -1,0 +1,6 @@
+id,user,timestamp,from,text
+user01_conv01,user01,2025-01-12T10:15:00,user,Ich fuehle mich muede.
+user01_conv01,user01,2025-01-12T10:15:10,system,Was hat dich heute muede gemacht
+user01_conv01,user01,2025-01-12T10:15:20,user,Zu viele Aufgaben in der Schule.
+user02_conv01,user02,2025-01-12T11:40:00,user,Ich hatte einen guten Tag.
+user02_conv01,user02,2025-01-12T11:40:05,system,Was hat dir gut getan
